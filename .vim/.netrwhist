@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/Users/bohan/Developer/neu/cs6220/hw1/src'
+let g:netrw_dirhist_2='/Users/bohan/Developer/neu/cs6220/hw1/results'
